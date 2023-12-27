@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Janet
 - 👀 I’m interested in full stack development and getting involved in some data projects
 - 🌱 I’m currently working on updating my personal website 
-- 📖 reading: Designing Data-Intensive Applications by Martin Kleppmann
+- 📖 reading
+  -  Designing Data-Intensive Applications ~ Martin Kleppmann
+  -  ACOTAR ~ Sarah J. Maas
 
 <!---
 JViCor/JViCor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
